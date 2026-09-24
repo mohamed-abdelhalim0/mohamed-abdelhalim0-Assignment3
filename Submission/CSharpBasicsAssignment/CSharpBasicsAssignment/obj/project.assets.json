@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halim\\OneDrive\\Desktop\\CSharpBasicsAssignment\\CSharpBasicsAssignment\\CSharpBasicsAssignment.csproj",
+      "projectUniqueName": "F:\\Simulation.Net\\Submisson\\mohamed-abdelhalim0-Assignment3\\Submission\\CSharpBasicsAssignment\\CSharpBasicsAssignment\\CSharpBasicsAssignment.csproj",
       "projectName": "CSharpBasicsAssignment",
-      "projectPath": "C:\\Users\\halim\\OneDrive\\Desktop\\CSharpBasicsAssignment\\CSharpBasicsAssignment\\CSharpBasicsAssignment.csproj",
+      "projectPath": "F:\\Simulation.Net\\Submisson\\mohamed-abdelhalim0-Assignment3\\Submission\\CSharpBasicsAssignment\\CSharpBasicsAssignment\\CSharpBasicsAssignment.csproj",
       "packagesPath": "C:\\Users\\halim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halim\\OneDrive\\Desktop\\CSharpBasicsAssignment\\CSharpBasicsAssignment\\obj\\",
+      "outputPath": "F:\\Simulation.Net\\Submisson\\mohamed-abdelhalim0-Assignment3\\Submission\\CSharpBasicsAssignment\\CSharpBasicsAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
