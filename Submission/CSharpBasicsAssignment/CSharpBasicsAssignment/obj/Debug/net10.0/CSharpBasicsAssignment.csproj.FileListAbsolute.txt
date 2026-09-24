@@ -1,0 +1,15 @@
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
+C:\Users\halim\OneDrive\Desktop\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBa.D9D76A20.Up2Date
